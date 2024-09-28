@@ -2,11 +2,14 @@
 A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
-- [Write Ups & Authors](#write-ups--authors)
-- [Platforms](#platforms)
-- [Available Programs](#available-programs)
-- [Contribution guide](contributing.md)
+- [Awesome Bug Bounty ](#awesome-bug-bounty-)
+  - [Table of Contents](#table-of-contents)
+    - [Getting Started](#getting-started)
+    - [Write Ups \& Authors](#write-ups--authors)
+    - [Platforms](#platforms)
+    - [Available Programs](#available-programs)
+  - [Aggregators](#aggregators)
+  - [License](#license)
 
 ### Getting Started
 - [How to Become a Successful Bug Bounty Hunter](https://hackerone.com/blog/what-great-hackers-share)
@@ -60,6 +63,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Hacktrophy](https://hacktrophy.com/)
 - [AntiHACK](https://www.antihack.me/)
 - [CESPPA](https://www.cesppa.com/)
+- [BountyHub](https://bountyhub.dev/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
